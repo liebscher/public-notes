@@ -1,13 +1,11 @@
 ---
 description: A diary of some blind incense smelling
 created: 2026-04-30T18:00:00
-updated: 2026-05-11T18:00:00
+updated: 2026-05-11T21:00:00
 tags:
 author:
   - Alex Liebscher
 ---
-Internal link: [[Run your own AI on your MacBook Air|Run your own AI on your MacBook Air]]
-
 ## Safron, frankincense, and sandalwood
 - Earthy, musky, a little sour
 - Herbal
@@ -53,3 +51,38 @@ I like how mild and soft this one is. It's very fresh smelling, it's sort of on 
 - On the drier side as opposed to resinous and syrupy
 
 I like it, it's calming and probably good to meditate with. I would light this if I wanted a calm evening in, maybe listening to some earthy, folksy, religious, or "Eastern" music. This is the Patchouli from my Auromere sampler.
+
+
+## Lavender (homemade from Kenzi)
+
+- Sharp, in a tart kind of way
+- Flowery, herbal
+- A bit like laundry
+- Strong like a campfire - cedar, sandalwood
+- Resinous and goopy
+- Masculine when freshly put out, but gets softer and more feminine the longer it burns
+- Somewhat leathery, but a bit more green
+- Hot, like fire
+
+Not my favorite. Not terrible though, could just be the way it was made.
+
+## Amber
+
+Before:
+- spicy
+- cool
+- fresh
+- woody
+- laundry
+- feminine
+
+During:
+- Very strongly like a campfire
+- Smoke, Ash
+- Warm, masculine
+- Forest, reminds me of the Boy Scouts
+- Burning
+- Herbal
+- Woody
+
+A little too sharp for everyday incense, a little too much like the apartment has caught on fire and is burning.
