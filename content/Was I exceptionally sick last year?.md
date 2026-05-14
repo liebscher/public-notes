@@ -74,7 +74,7 @@ Taking the complement of these probabilities (p($X > k$) = 1 - p($X \le k$)) giv
 
 Thus, according to our data, there's an 87% probability a randomly sampled adult has at least 1 common cold over a year, and a 13% probability they have 0 colds.
 
-Finally, according to our model and data, the probability of a randomly observed adult having 7 or more colds is: P(X >= 7) = P(X > 6) = 3.86%.
+Finally, according to our model and data, the probability of a randomly observed adult having 7 or more colds is: $P(X \ge 7) = P(X > 6) = 3.86\%$.
 
 Said plainly, only about 3.9% of the general adult population would have as many colds as I did last year. I'm shocked at how extreme my experience has been, and I'm definitely making some changes to my work and travel habits for the upcoming year.
 
