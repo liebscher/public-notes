@@ -1,7 +1,7 @@
 ---
 description: A diary of some blind incense smelling
 created: 2026-04-30T18:00:00
-updated: 2026-05-11T21:00:00
+updated: 2026-05-25T18:00:00
 tags:
 author:
   - Alex Liebscher
@@ -33,6 +33,13 @@ Takeaway: I like how mild and soft this one is. It's very fresh smelling, it's s
 Takeaway: I like it, it's calming and probably good to meditate with. I would light this if I wanted a calm evening in, maybe listening to some earthy, folksy, religious, or "Eastern" music. This is the Patchouli from my Auromere sampler.
 
 
+May 25 2026 2:00pm
+
+| Before                                                           | During                                                                                                                                                            |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Minty, peppermint<br>- Spicy<br>- Fresh, herbal<br>- Masculine | - Tobacco<br>- Warm, soft, powedery<br>- Herbal, but not sharp<br>- Not floral<br>- No citrus, <br>- Woody - santalwood, cedar, palo santo<br>- Warm nutty coffee |
+
+I reallyyyy like this one. Very homey, warm, soft, and "traditional incense". It's fresh in a refreshing way.
 ## Lavender (homemade from Kenzi)
 
 | Before | During                                                                                                                                                                                                                                                                                                          |
@@ -44,7 +51,7 @@ Takeaway: Not my favorite. Not terrible though, could just be the way it was mad
 ## Amber
 May 13, 2026 4:00pm
 
-| Before                                                             | After                                                                                                                                              |
+| Before                                                             | During                                                                                                                                             |
 | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - Spicy<br>- Cool<br>- Fresh<br>- Woody<br>- Laundry<br>- Feminine | - Very strongly like a campfire<br>- Smoke, Ash<br>- Warm, masculine<br>- Forest, reminds me of the Boy Scouts<br>- Burning<br>- Herbal<br>- Woody |
 Takeaway: A little too sharp for everyday incense, a little too much like the apartment has caught on fire and is burning.
@@ -59,3 +66,24 @@ May 13, 2026 9:00pm
 Takeaway: It's ok, it's warm and earthy and mellow but maybe a little too mellow. Subtle. Sort of lacking depth. I would definitely burn this if I had it, but I wouldn't go out of my way to purchase it. Not very impressed by this one.
 
 Pairs well with: Jeff Buckley, The Verve
+
+## Lavender
+May 15, 2026 7:00pm
+
+| Before | During                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|        | - a bit resinous<br>- powdery<br>- soft wood<br>- leaning feminine unless I get a particularly smoky whif, then masculine<br>- herbal<br>- a bit fiery, maybe campfire<br>- getting some more burning woods scents as it progresses<br>- maybe slightly green wood<br>- getting some soft florals, powdery again<br>- woody oriental<br>- As it progresses I'd say it's gotten more masculine, deeper, a bit more raw and unfiltered, not as soft. Reminds me of a joint getting fierier and harder the more you smoke it.<br>- On that note, maybe a little tobacco<br>- allusions of coffee/chocolate perhaps. Could just be imagining that |
+
+Takeaway: wouldn't be my go to for a night in, a bit too woody. Eh, growing on me a little bit. It is soft and powdery, which I like. 
+
+Pairs well with: Noah Kahan (*The Great Divide*)
+
+
+## Lily (Lilium)
+May 24 2026 9:00pm
+
+| Before                                                                                                                                                                                                                                           | During                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Minty<br>- Eucalyptus<br>- Very soapy<br>- Strong like detergent<br>- Very whimsical and feminine<br>- But also maybe cool and fresh in a masculine way<br>- Floral, in a light and springtime way<br>- A little resinous<br>- Green notes<br> | - Sweet<br>- Floral<br>- Powdery<br>- Can get a bit strong, acidic, burning<br>- Slightly amber<br>- Some aquatic notes, like laundry detergent<br>- Slight, slight dry woods or leather<br>- Still a feminine scent<br>- A bit of an ancient or traditional scent, kind of like lavender<br>- What I'm not getting: citrus, deep burning wood, campfire, fruit, patchouli |
+
+Takeaway: it's nice but probably not something I would seek out. It's a little too aquatic and powdery. I feel like I'm inhaling flour. I might like the scent it leaves as an aftermath. It's too sharp and floral. Kind of makes my eyes water.
